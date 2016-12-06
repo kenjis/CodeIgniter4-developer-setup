@@ -1,4 +1,12 @@
 # CodeIgniter4-developer-setup
+
+## Notice
+
+    This repo has not proved useful - no contributions other than a typo fix,
+    no chatter, etc. We can only conclude that it is not needed, and it will
+    be deleted Dec 21st, 2016.
+
+
 Tips for developers working with CodeIgniter4, for different platforms, servers and IDEs.
 
 In a nutshell, CodeIgniter4 needs PHP7. You can also make your life easier with some
